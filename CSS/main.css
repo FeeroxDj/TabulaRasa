@@ -31,6 +31,13 @@ img{
     display: flex;
     justify-content: center;
     gap: 10px;
+    background-color: aqua;
+    padding: 10px;
+}
+.btn button{
+    padding: 5px;
+    color: aliceblue;
+    background-color: cadetblue;
 }
 footer{
     height: 60px;
